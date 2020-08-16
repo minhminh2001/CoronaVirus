@@ -1,4 +1,6 @@
 package com.coronavirus.viewmodel;
 
-public class MainActivityViewModel {
+import com.coronavirus.view.base.BaseViewModel;
+
+public class MainActivityViewModel extends BaseViewModel {
 }
